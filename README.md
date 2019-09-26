@@ -1,3 +1,5 @@
-* August 2, 1776: Signing of the Declaration of Independence
+* Aug 02, 1776: Signing of the Declaration of Independence
 
-* June 11, 1787: The 3/5ths Compromise was proposed by delegate James Wilson
+* Jun 11, 1787: The 3/5ths Compromise was proposed by delegate James Wilson
+
+* Sep 17, 1787: The signing of the Constitution of the United States of America
