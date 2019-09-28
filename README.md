@@ -15,3 +15,5 @@
 * Nov 05, 1914 (ww1): Britain and France declare war on the Ottoman Empire.
 
 * May 7, 1915 (ww1): The British ocean liner Lusitania is torpedoed by a German U-boat off the southern coast of Ireland. It sinks in just 18 minutes, and nearly 1,200 people are killed, including 128 U.S. citizens.
+
+* Nov 11, 1918 (ww1): Germany and the Allies conclude an armistice based largely on Wilson’s Fourteen Points. 
