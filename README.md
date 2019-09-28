@@ -11,3 +11,5 @@
 * 1863: Reconstructionism begins. Reconstruction ended the remnants of Confederate secession and ended slavery, making the newly freed slaves citizens with civil rights ostensibly guaranteed by three new Constitutional amendments.
 
 * 1867: First printing of The Lost Cause: A New Southern History of the War of the Confederates
+
+* 1903: The first statues of Moses Jacob Ezekiel memorializing the Lost Cause. Confederate monuments, including Ezekiel's highly visible sculptures, were part of a campaign to terrorize black Americans, to romanticize slavery, to promote an ahistorical lie about the honor of the Confederate cause, to cast in granite what Jim Crow codified in law.
