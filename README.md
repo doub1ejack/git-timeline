@@ -9,3 +9,5 @@
 * Apr 9, 1865: Civil war ends
 
 * 1863: Reconstructionism begins. Reconstruction ended the remnants of Confederate secession and ended slavery, making the newly freed slaves citizens with civil rights ostensibly guaranteed by three new Constitutional amendments.
+
+* 1867: First printing of The Lost Cause: A New Southern History of the War of the Confederates
