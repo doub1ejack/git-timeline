@@ -8,3 +8,6 @@
 
 * Apr 9, 1865: Civil war ends
 
+* May 10, 1866: A family of seven was prosperous and content for several consecutive years.
+
+
