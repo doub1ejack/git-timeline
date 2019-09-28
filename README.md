@@ -8,3 +8,4 @@
 
 * Apr 9, 1865: Civil war ends
 
+* 1867: First printing of The Lost Cause: A New Southern History of the War of the Confederates
