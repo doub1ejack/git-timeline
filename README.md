@@ -6,3 +6,5 @@
 
 * Apr 12, 1861: Civil war begins
 
+* Apr 9, 1865: Civil war ends
+
