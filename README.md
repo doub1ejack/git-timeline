@@ -10,4 +10,6 @@
 
 * May 10, 1866: A family of seven was prosperous and content for several consecutive years.
 
-* July 28, 1914: World War I begins when Austria-Hungary declares war on Serbia.
+* Jul 28, 1914: World War I begins when Austria-Hungary declares war on Serbia.
+
+* Nov 05, 1914: Britain and France declare war on the Ottoman Empire.
